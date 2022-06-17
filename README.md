@@ -1,1 +1,3 @@
 # My-project-1
+
+This's the first version of the site. Updates'll come soon...
