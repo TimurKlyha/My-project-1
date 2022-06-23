@@ -1,0 +1,296 @@
+ .u-section-1 {
+  background-image: linear-gradient(0deg, rgba(255,255,255,0.85), rgba(255,255,255,0.85)), url("images/table-manners-and-dining-etiquette-1216971_hero_3329-8f2c67ff8b1740f8a4345f5dd38d08d5-51.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 267px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 60px;
+  margin-bottom: 0;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 207px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-text-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 700;
+  font-size: 3rem;
+}
+
+.u-section-1 .u-line-1 {
+  width: 100px;
+  height: 3px;
+  margin: 30px auto 0 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 207px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px 30px 2px;
+}
+
+.u-section-1 .u-text-2 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 412px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 171px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 171px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 316px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 224px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 224px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 450px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 524px;
+    margin-right: auto;
+    margin-bottom: 33px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 179px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 178px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding: 0 7px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-top: -40px;
+    margin-left: 3px;
+    margin-right: 3px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 149px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 210px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 6px;
+    padding-right: 6px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin: -8px 1px -32px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 2801px;
+  margin-bottom: 0;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 60px 0 0;
+}
+
+.u-section-2 .u-image-1 {
+  width: 341px;
+  height: 341px;
+  background-image: url("images/Wagenfeld_wmf_besteck.jpg");
+  background-position: 50% 50%;
+  margin: -571px auto 0 28px;
+}
+
+.u-section-2 .u-text-2 {
+  font-size: 1.875rem;
+  font-weight: 700;
+  font-style: italic;
+  margin: -215px 41px 0 429px;
+}
+
+.u-section-2 .u-image-2 {
+  width: 751px;
+  height: 501px;
+  margin: 472px auto 0 165px;
+}
+
+.u-section-2 .u-text-3 {
+  margin: 41px 0 26px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 3341px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-right: 16px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 299px;
+    height: 299px;
+    margin-top: -546px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    font-size: 1.5rem;
+    margin-top: -185px;
+    margin-right: 21px;
+    margin-left: 359px;
+  }
+
+  .u-section-2 .u-image-2 {
+    width: 786px;
+    margin-top: 536px;
+    margin-left: auto;
+  }
+
+  .u-section-2 .u-text-3 {
+    margin-top: 184px;
+    margin-bottom: 42px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 3472px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 229px;
+    height: 229px;
+    margin-top: -510px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: -129px;
+    margin-right: 25px;
+    margin-left: 263px;
+    font-size: 1.25rem;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 459px;
+    margin-top: 423px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-2 .u-text-3 {
+    width: auto;
+    margin-top: 76px;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 4084px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: -615px;
+    margin-left: 143px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: 432px;
+    margin-top: 41px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-image-2 {
+    height: 480px;
+    margin-top: 358px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 5563px;
+  }
+
+  .u-section-2 .u-image-1 {
+    margin-top: -743px;
+    margin-left: 43px;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-top: 34px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-image-2 {
+    margin-top: 493px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+}
